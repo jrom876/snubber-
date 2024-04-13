@@ -5,9 +5,9 @@
 # DESIGNER		Jacob Romero 
 
 '''
-	Copyright (C) 3/14/2024 
-	Jacob Romero, ERI Group, LLC
-	jromero@erigroup.com
+	Copyright (C) 2024 
+	Jacob Romero, Creative Engineering Solutions, LLC
+	cesllc876@gmail.com
 
 	References:	
 		https://sciencing.com/calculate-milliequivalent-5009675.html
